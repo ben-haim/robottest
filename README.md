@@ -17,3 +17,15 @@ Install the Robot Framework IDE (optional):
 
     $ pip install robotframework-ride 
 
+
+Run tests
+----------------------
+
+### Usign RIDE (recommended)
+Start RIDE, open directory, tick the tests you want to run, click run.
+
+### From command line
+
+Execute all tests:
+    $ pybot .
+
